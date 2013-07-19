@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>graindcafe</groupId>
+  <artifactId>Controllable-Mobs-API</artifactId>
+  <versioning>
+    <versions>
+      <version>4.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20130719140349</lastUpdated>
+  </versioning>
+</metadata>
